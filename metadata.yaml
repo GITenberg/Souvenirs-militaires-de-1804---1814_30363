@@ -1,0 +1,31 @@
+_repo: Souvenirs-militaires-de-1804---1814_30363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fezensac, Raymond-Aymery-Philippe-Joseph de Montesquiou, duc de
+    alias: Fezensac, Raimond-Emery-Philippe-Joseph de Montesquiou, duc de
+    birthdate: 1784
+    deathdate: 1867
+    gutenberg_agent_id: '34565'
+    url: http://www.gutenberg.org/2009/agents/34565
+    wikipedia: http://fr.wikipedia.org/wiki/Raymond_Aymeric_Philippe_Joseph_de_Montesquiou-Fezensac
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2009-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30363'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Napoleonic Wars, 1800-1815'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+- !lcsh 'France -- History, Military'
+title: Souvenirs militaires de 1804 à 1814
+url: http://www.gutenberg.org/ebooks/30363
