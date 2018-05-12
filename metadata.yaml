@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34565
     wikipedia: http://fr.wikipedia.org/wiki/Raymond_Aymeric_Philippe_Joseph_de_Montesquiou-Fezensac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30363#Souvenirs-militaires-de-1804---1814
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2009-10-31'
 gutenberg_type: Text
